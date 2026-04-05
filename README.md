@@ -51,5 +51,5 @@ Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAP
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharath_Sarangmath-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharathsarangmath)
-[![Email](https://img.shields.io/badge/Email-sharathsarangmath%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sharathsarangmath@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sharathsarang1%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sharathsarang1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharathsarangmath.github.io-222?style=flat&logo=github)](https://sharathsarangmath.github.io)
