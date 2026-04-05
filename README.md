@@ -1,16 +1,55 @@
-## Hi there 👋
+# Sharath Sarangmath — Senior QA Engineer / SDET
 
-<!--
-**sharathsarangmath/sharathsarangmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Building confidence in software, one assertion at a time.**  
+> Dublin, Ireland · Stamp 4 · Open to EU/EEA/UK/Remote
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+7+ years breaking things professionally across API testing, UI automation, and CI/CD. Most recently led QA on **Ediflo** at Axonista — a headless API-first CMS powering OTT streaming for Apple TV and Roku — owning 800+ API tests across 382 endpoints and building CI pipelines from scratch.
+
+Currently building a portfolio of modern QA projects spanning LLM evaluation, UI automation, and cloud-native testing.
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **API Testing** | Postman · Newman · pytest · REST / GraphQL |
+| **UI Automation** | Cypress · Playwright (Python & TypeScript) |
+| **AI / LLM Testing** | DeepEval · Llamaindex · adversarial red teaming |
+| **CI / CD** | GitHub Actions · Docker |
+| **Performance** | k6 |
+| **Cloud** | AWS Lambda · Kafka · FastAPI |
+| **Languages** | Python · JavaScript · TypeScript (in progress) |
+
+---
+
+## Projects
+
+### 🤖 [hotel-ai-qa-suite](https://github.com/sharathsarangmath/hotel-ai-qa-suite)
+**LLM QA framework** — 4-layer evaluation: golden dataset, RAG pipeline tests, adversarial red teaming, hallucination detection, GitHub Actions CI.  
+`Python` `DeepEval` `LangSmith` `GitHub Actions`
+
+---
+
+### 🚗 [vehicle-ops-platform](https://github.com/sharathsarangmath/vehicle-ops-platform)
+Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAPI. Load tested with k6.  
+`Python` `AWS` `Kafka` `Docker` `k6`
+
+---
+
+## GitHub Stats
+
+![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathsarangmath&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathsarangmath&layout=compact&hide_border=true&theme=default)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharath_Sarangmath-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharathsarangmath)
+[![Email](https://img.shields.io/badge/Email-sharathsarangmath%40gmail.com-D14836?style=flat&logo=gmail)](mailto:sharathsarangmath@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharathsarangmath.github.io-222?style=flat&logo=github)](https://sharathsarangmath.github.io)
