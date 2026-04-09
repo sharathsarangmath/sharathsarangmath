@@ -42,7 +42,7 @@ Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAP
 
 ## GitHub Stats
 
-![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathsarangmath&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
+![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharathsarangmath&show_icons=true&theme=radical&hide_border=true&&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathsarangmath&layout=compact&hide_border=true&theme=radical&cache_seconds=1800)
 
 ---
