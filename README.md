@@ -28,13 +28,13 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 
 ## Projects
 
-### 🤖 [hotel-ai-qa-suite](https://github.com/sharathsarangmath/hotel-ai-qa-suite)
+### 🤖 [hotel-ai-qa-suite] (https://github.com/sharathsarangmath/hotel-ai-qa-suite)
 **LLM QA framework** — 4-layer evaluation: golden dataset, RAG pipeline tests, adversarial red teaming, hallucination detection, GitHub Actions CI.  
 `Python` `DeepEval` `LangSmith` `GitHub Actions`
 
 ---
 
-### 🚗 [vehicle-ops-platform](https://github.com/sharathsarangmath/vehicle-ops-platform)
+### 🚗 [vehicle-ops-platform] (https://github.com/sharathsarangmath/vehicle-ops-platform)
 Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAPI. Load tested with k6.  
 `Python` `AWS` `Kafka` `Docker` `k6`
 
