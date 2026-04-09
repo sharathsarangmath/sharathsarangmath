@@ -34,7 +34,7 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 
 ---
 
-### 🚗 [vehicle-ops-platform] (https://github.com/sharathsarangmath/vehicle-ops-platform)
+### 🚗 [vehicle-ops-platform](https://github.com/sharathsarangmath/vehicle-ops-platform)
 Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAPI. Load tested with k6.  
 `Python` `AWS` `Kafka` `Docker` `k6`
 
