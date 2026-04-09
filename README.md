@@ -21,7 +21,7 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 | **UI Automation** | Cypress · Playwright (Python & TypeScript) |
 | **AI / LLM Testing** | DeepEval · Llamaindex · adversarial red teaming |
 | **CI / CD** | GitHub Actions · Docker |
-| **Cloud** | AWS Lambda · Kafka · FastAPI |
+| **Cloud** | AWS Lambda · Kafka · K8 |
 | **Languages** | Python · JavaScript · TypeScript (in progress) |
 
 ---
