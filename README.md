@@ -28,12 +28,9 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 
 ## Projects
 
-### 🤖 [hotel-ai-chatbot-test](https://github.com/sharathsarangmath/hotel-ai-chatbot-test)
-**LLM QA framework** — 4-layer evaluation: golden dataset, RAG pipeline tests, adversarial red teaming, hallucination detection, GitHub Actions CI.  
+### 🤖 hotel-ai-chatbot-test
+[![hotel-ai-qa](https://github-readme-stats-pi-eosin-57.vercel.app/api/pin/?username=sharathsarangmath&repo=hotel-ai-chatbot-test&theme=radical)](https://github.com/sharathsarangmath/hotel-ai-chatbot-test)  
 `Python` `pytest` `Anthropic Claude API` `LlamaIndex` `HuggingFace` `GitHub Actions`
-
-[![hotel-ai-qa](https://github-readme-stats-pi-eosin-57.vercel.app/api/pin/?username=sharathsarangmath&repo=hotel-ai-chatbot-test&theme=radical)](https://github.com/sharathsarangmath/hotel-ai-chatbot-test)
-
 ---
 
 ### 🚗 [vehicle-ops-platform](https://github.com/sharathsarangmath/vehicle-ops-platform)
