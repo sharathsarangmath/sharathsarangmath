@@ -1,7 +1,7 @@
 # Sharath Sarangmath — Senior QA Engineer / SDET
 
 > **Building confidence in software, one assertion at a time.**  
-> Dublin, Ireland · Stamp 4 · Open to EU/EEA/UK/Remote
+> Dublin, Ireland · Stamp 4 · Open to roles in Ireland, EU/EEA/EMEA remote or globally remote
 
 ---
 
