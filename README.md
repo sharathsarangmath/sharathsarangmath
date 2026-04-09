@@ -28,7 +28,7 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 
 ## Projects
 
-### 🤖 hotel-ai-chatbot-test
+### 🤖 Hotel AI Chatbot 
 [![hotel-ai-qa](https://github-readme-stats-pi-eosin-57.vercel.app/api/pin/?username=sharathsarangmath&repo=hotel-ai-chatbot-test&theme=radical)](https://github.com/sharathsarangmath/hotel-ai-chatbot-test)
 **LLM QA framework** — 4-layer evaluation: golden dataset, RAG pipeline tests, adversarial red teaming, hallucination detection, GitHub Actions CI.  
 `Python` `pytest` `Anthropic Claude API` `LlamaIndex` `HuggingFace` `GitHub Actions`
@@ -37,7 +37,7 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 
 ---
 
-### 🚗 [vehicle-ops-platform](https://github.com/sharathsarangmath/vehicle-ops-platform)
+### 🚗 Vehicle Operation Platform
 [![vehicle-ops](https://github-readme-stats-pi-eosin-57.vercel.app/api/pin/?username=sharathsarangmath&repo=vehicle-ops-platform&theme=radical)](https://github.com/sharathsarangmath/vehicle-ops-platform)
 Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAPI.  
 `Python` `AWS` `API Gateway` `SQS` `Kafka` `DynamoDB` `Cloudfront` `Playwright` `pytest` `Docker` `Kubernetes` 
