@@ -28,7 +28,7 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 
 ## Projects
 
-### 🤖 [hotel-ai-qa-suite] (https://github.com/sharathsarangmath/hotel-ai-qa-suite)
+### 🤖 [[hotel-ai-qa-suite] (https://github.com/sharathsarangmath/hotel-ai-qa-suite)](https://github.com/sharathsarangmath/hotel-ai-chatbot-test)
 **LLM QA framework** — 4-layer evaluation: golden dataset, RAG pipeline tests, adversarial red teaming, hallucination detection, GitHub Actions CI.  
 `Python` `DeepEval` `LangSmith` `GitHub Actions`
 
