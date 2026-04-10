@@ -47,6 +47,8 @@ Currently building a portfolio of modern QA projects spanning LLM evaluation, UI
 Cloud-native vehicle operations system — AWS Lambda, Kafka, Kubernetes, FastAPI.  
 `Python` `AWS` `API Gateway` `SQS` `Kafka` `DynamoDB` `Cloudfront` `Playwright` `pytest` `Docker` `Kubernetes` 
 
+[![VOP CI Pipeline](https://github.com/sharathsarangmath/vehicle-ops-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/sharathsarangmath/vehicle-ops-platform/actions/workflows/ci.yml)
+
 
 
 ---
